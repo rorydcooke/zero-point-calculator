@@ -1,4 +1,4 @@
-#Counts for standard stars in order;b62start,b25start,b62end. Then subordered according to bands u,g,r.
+#Counts for standard stars in order;b62start,b25start,b62end. Then subordered according to bands u,g,r. #need to add errors
 1E+6
 1.38E+5
 1.22E+5
