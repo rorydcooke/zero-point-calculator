@@ -1,0 +1,10 @@
+#error on counts, same order as test data
+250
+960
+1233
+2167
+1088
+914
+222
+684
+1081

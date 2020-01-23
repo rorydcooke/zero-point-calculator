@@ -1,0 +1,10 @@
+#Counts for standard stars in order;b62start,b25start,b62end. Then subordered according to bands u,g,r. #need to add errors
+62716
+0.92180E+06
+0.15204E+07
+0.46981E+07
+0.11832E+07
+0.83559E+06
+49268
+0.46805E+06
+0.11689E+07

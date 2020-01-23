@@ -8,8 +8,10 @@ def main():
 
     band= raw_input("Which band are you observing in?")
     airmass= float(input("What airmass is your object at?"))
-    data= raw_input("What is the name of your data file?")
-    errdata= raw_input("What is the name of your errors file?")
+    #data= raw_input("What is the name of your data file?")
+    #errdata= raw_input("What is the name of your errors file?")
+    data="data.txt"
+    errdata="errors.txt"
     filein= open(data, "r")
     filein2= open(errdata, "r")
     errcounts=[]
